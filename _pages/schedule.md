@@ -32,7 +32,7 @@ Under construction!
 		<li>Sets of distributions: ensemble methods, credal sets, etc.</li>
 		<li>Direct estimation of epistemic uncertainty: density-based models, mean-variance estimation, etc.</li>
 	</ul>
-	<p><strong>Break (15 minutes)</strong></p>    
+	<p><strong>Break (15 minutes)</strong></p>
 	<p><strong>- Explainability meets Uncertainty (TBD, 30 minutes)</strong></p>
 	<ul>
 		<li>XAI techniques on probabilistic models</li>
