@@ -33,7 +33,7 @@ Simultaneously, there is a growing emphasis on machine learning models that acco
 
 The intersection of explainability and uncertainty has drawn attention for its potential to combine these domains towards Trustworthy ML. Some notable innovative approaches include: developing interpretability methods for probabilistic models, qunatifying the uncertainty of explanations, and explaining the sources of uncertainty.
 
-The primary goal of this full-day event, consisting of a Tutorial and Workshop, is to jointly explore how explainability and uncertainty can be leveraged to build robust and trustworthy AI systems. The tutorial (morning session) will establish the foundation for (a) uncertainty modelling and (b) explainability in machine learning. Then, the workshop (afternoon session) will delve into innovative techniques at the intersection of these two domains.
+The primary goal of this full-day event, consisting of a Tutorial and a Workshop, is to jointly explore how explainability and uncertainty can be leveraged to build robust and trustworthy AI systems. The tutorial (morning session) will establish the foundation for (a) uncertainty modelling and (b) explainability in machine learning. Then, the workshop (afternoon session) will delve into innovative techniques at the intersection of these two domains.
 
 The workshop & tutorial will be an in-person event at [ECML-PKDD 2023](https://2023.ecmlpkdd.org/). The session will cover invited talks, contributed talks, posters, and a panel discussion.
 
@@ -49,13 +49,13 @@ The workshop & tutorial will be an in-person event at [ECML-PKDD 2023](https://2
 
 ### **Organizers**
 
-- Workshop:
-  - [Vasilis Gkolemis](https://givasile.github.io)
-  - [Christos Diou](https://diou.github.io)
 - Tutorial:
   - [Viktor Bengs](https://www.kiml.ifi.lmu.de/people/postdocs/bengs/index.html)
   - [Eyke Hullermeier](https://scholar.google.com/citations?user=usVJeNN3xFAC&hl=en)
   - [Willem Waegeman](https://scholar.google.com/citations?user=jdjZppMAAAAJ&hl=en)
+- Workshop:
+  - [Vasilis Gkolemis](https://givasile.github.io)
+  - [Christos Diou](https://diou.github.io)
 
 ---
 

@@ -7,10 +7,12 @@ nav: true
 nav_order: 6
 ---
 
-We invite researchers that are intereseted in Interpretable Machine Learning (IML) and/or Uncertainty Quantification to submit their latest work to our Workshop. The workshop’s topics of interest include (but not limited to) methods and applications on:
+We invite submissions from researchers intereseted in Interpretable Machine Learning (IML) and/or Uncertainty Quantification, for our Workshop. The scope of the topics covers all types of data (tabular, text, images, etc.) and all type of ML models. We particularly encourage interdisciplinary work that lies on the intersection of explainability and uncertainty.
+
+The workshop’s topics of interest include (but not limited to) methods and applications on:
 
 - Intersection of Explainability and Uncertainty:
-  - Explainability methods that make uncertain explanations
+  - Explainability methods that produce uncertain explanations
   - Explainability for probabilistic ML models
   - Explainability on Bayesian Models
   - Explainability on Ensemble Methods
@@ -27,11 +29,6 @@ We invite researchers that are intereseted in Interpretable Machine Learning (IM
   - Explaining trade-offs between objectives, such as effectiveness, bias, uncertainty
   - Explainability and privacy
   - Explainability and fairness
-- Uncertainty:
-  - Frequentists and Bayesian Methods
-  - Aleatoric and Epistemic Uncertainty
-  - Ensemble Methods
-  - Probabilistic Inference
 
 ---
 
