@@ -9,33 +9,31 @@ selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-
-
----
-
-<p style="color:blue" align="center"> Papers should be submitted at
-<a href="https://cmt3.research.microsoft.com/ECMLPKDDworkshop2023/Track/3/Submission/Create">https://cmt3.research.microsoft.com/ECMLPKDDworkshop2023/Track/3/Submission/Create</a>
+<p align="center" style="font-weight:bold; font-size:30px"> Uncertainty meets Explainability | Workshop and Tutorial @
+<a href="https://2023.ecmlpkdd.org/">ECML-PKDD 2023</a>
 </p>
 
 ---
 
-<p style="color:blue" align="center"> Please submit any question
-<a href="mailto:xai-uncertainty@gmail.com">here</a></p>
+<p style="color:blue" align="center"> Click
+<a href="https://cmt3.research.microsoft.com/ECMLPKDDworkshop2023/Track/3/Submission/Create">[here]</a>  to submit a paper or 
+<a href="cfp">[here]</a> to read the CFP
+</p>
 
 ---
 
-#### **Combined Event - Workshop and Tutorial @ [ECML-PKDD 2023](https://2023.ecmlpkdd.org/)**
+<p style="color:blue" align="center"> 
+<a href="mailto:xai-uncertainty@gmail.com">[Click here to submit any question to the organizers]</a></p>
 
 ---
 
-Recently, critical high-stakes domains such as healthcare and finance have widely embraced the use of machine learning systems. In these domains, it is not only required that the models predict accurately but also that they can accompany their predictions with meaningful explanations. In the past few years, there is a significant research effort towards methods that explain black-box models, as well as on developing accurate interpretable-by-design models.
+Machine learning systems have become increasingly popular in crucial high-stakes fields, such as healthcare and finance. To be effective in these domains, the models must not only make precise predictions but also provide relevant explanations for those predictions. To achieve this goal, there has been a substantial research effort in recent years to develop techniques that explain black-box models and create models that are interpretable by design.
 
-At the same time, there is an increasing focus on models that incorporate uncertainty. Decision-making systems may encounter uncertainty from various sources, each providing unique insights to stakeholders. Aleatoric uncertainty, for example, stems from the inherent randomness of the predicted quantity, while epistemic uncertainty arises due to the limited amount of data available for the model's training. In general, incorporating uncertainty makes a model more reliable since it can acknowledge situations where it lacks knowledge about the correct prediction.
+Simultaneously, there is a growing emphasis on machine learning models that account for uncertainty. Decision-making systems can encounter uncertainties stemming from different origins, each offering a distinct perspectives. For instance, aleatoric uncertainty arises from the inherent randomness of the prediction, while epistemic uncertainty from the insufficient amount of data. In general, incorporating uncertainty enhances a model's reliability by allowing it to acknowledge scenarios where it lacks the necessary knowledge to make an accurate prediction.
 
-Recent developments have demonstrated significant potential for innovation on the intersection of these two areas. For example, on (a) modelling the uncertainty of the explanation
-(b) post-hoc uncertainty explanation, i.e., explain the sources of uncertainty and (c) develop interpretability methods in probabilistic models.
+The intersection of explainability and uncertainty has drawn attention for its potential to combine these domains towards Trustworthy ML. Some notable innovative approaches include: developing interpretability methods for probabilistic models, qunatifying the uncertainty of explanations, and explaining the sources of uncertainty.
 
-The main objective of this full-day event (workshop and tutorial) is to jointly examine explainability and uncertainty for the development of robust and trustworthy AI systems. The Tutorial will serve as a means for providing the foundation of (a) uncertainty modelling and (b) explainability in machine learning; afterwards, the workshop will explore novel methods on the intersection of these two areas.
+The primary goal of this full-day event, consisting of a Tutorial and Workshop, is to jointly explore how explainability and uncertainty can be leveraged to build robust and trustworthy AI systems. The tutorial (morning session) will establish the foundation for (a) uncertainty modelling and (b) explainability in machine learning. Then, the workshop (afternoon session) will delve into innovative techniques at the intersection of these two domains.
 
 The workshop & tutorial will be an in-person event at [ECML-PKDD 2023](https://2023.ecmlpkdd.org/). The session will cover invited talks, contributed talks, posters, and a panel discussion.
 
@@ -45,6 +43,7 @@ The workshop & tutorial will be an in-person event at [ECML-PKDD 2023](https://2
 
 - Submission Deadline: **12 June 2023 (AoE)**
 - Author Notification: **12 July 2023 (AoE)**
+- Event Date: **TBA (18th or 22nd of September 2023)**
 
 ---
 
@@ -68,11 +67,10 @@ TBA
 
 ### **Organizations**
 
-<img src="assets/img/harokopio.png" width="600">
-
-
-todo: add logos for ATHENA, HAROKOPIO, LMU 
-
+<img src="assets/img/ghent_logo.png" width="250">
+<img src="assets/img/LMU_logo.svg" width="250">
+<img src="assets/img/harokopio.png" width="250">
+<img src="assets/img/athena_logo.jpg" width="250">
 
 <!-- Associating a model’s predictions with an uncertainty level is a form of transparency; the user is informed to what extent they should trust the system’s decision. However, uncertainty is not sufficient for understanding how a black box ML model predicts. In high-stakes applications, there is a need for methods that do both; predict with uncertainty and explain their predictions. Furthermore, studies have shown that explainability methods are also vulnerable to inconsistencies and instabilities, which poses a significant challenge to their reliability. Therefore, the explanations should also account for uncertainty to express to what extent the stakeholder should trust them.  -->
 

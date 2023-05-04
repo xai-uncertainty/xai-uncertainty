@@ -13,9 +13,6 @@ nav_order: 6
 * Q: Will the paper be published in any proceedings?
   A: Yes, there will be post-workshop proceedings published by [Springer Communications in Computer and Information Science](https://www.springer.com/series/7899), in 1-2 volumes, organised by focused scope and possibly indexed by WOS. However, authors will have the option **to exclude their paper from the proceedings, if they want so.**
 
-* Q: Is it mandatory to attend in-person if my paper has been accepted to the workshop or I have the option to attend/present virtually?
-  A: No, it is not. Attendance to all workshops will be guaranteed **both** in presence and remotely for all participants enrolled to the main conference and/or workshops. 
-
 * Q: Can I attend the workshop without being registered at ECML-PKDD 2023 conference?
 A: The workshop is hosted by ECML-PKDD. Therefore, you have to be registered in order to attend the live sessions and the poster session of our workshop.
 
