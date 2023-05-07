@@ -67,10 +67,10 @@ TBA
 
 ### **Organizations**
 
-<img src="assets/img/ghent_logo.png" width="250">
-<img src="assets/img/LMU_logo.svg" width="250">
-<img src="assets/img/harokopio.png" width="250">
-<img src="assets/img/athena_logo.jpg" width="250">
+<img src="assets/img/ghent_logo.png" width="350">
+<img src="assets/img/LMU_logo.svg" width="350">
+<img src="assets/img/harokopio.png" width="500">
+<img src="assets/img/athena_logo.jpg" width="350">
 
 <!-- Associating a model’s predictions with an uncertainty level is a form of transparency; the user is informed to what extent they should trust the system’s decision. However, uncertainty is not sufficient for understanding how a black box ML model predicts. In high-stakes applications, there is a need for methods that do both; predict with uncertainty and explain their predictions. Furthermore, studies have shown that explainability methods are also vulnerable to inconsistencies and instabilities, which poses a significant challenge to their reliability. Therefore, the explanations should also account for uncertainty to express to what extent the stakeholder should trust them.  -->
 
