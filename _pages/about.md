@@ -67,8 +67,8 @@ TBA
 
 ### **Organizations**
 
-<img src="assets/img/ghent_logo.png" width="350">
-<img src="assets/img/LMU_logo.svg" width="350">
+<img src="assets/img/ghent_logo.png" width="250">
+<img src="assets/img/lmu_logo.png" width="250">
 <img src="assets/img/harokopio.png" width="500">
 <img src="assets/img/athena_logo.jpg" width="350">
 
