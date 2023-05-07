@@ -34,11 +34,14 @@ The workshop’s topics of interest include (but not limited to) methods and app
 
 **Submission Instructions:**
 
-- Full Paper Track:
-The full paper track is suitable for novel contributions related to Explainability and/or Uncertainty. This can include a novel method or new insights on these two fields that would be valuable for the community. Please note that the page limit for the paper is 8-16 pages, excluding references.
+- **Full Papers:**
+Suitable for novel contributions related to Explainability and/or Uncertainty. This can include a novel method or new insights on these two fields that would be valuable for the community. Please note that the page limit for the paper is 8-16 pages, excluding references.
 
-- Extended Abstract Track:
-The extended abstract track is suitable for discussing novel ideas related to Explainability and/or Uncertainty. This can include open research challenges or industrial applications to foster discussion among panelists and facilitate future collaborations. The page limit for the extended abstract is 2-4 pages, excluding references.
+- **Extended Abstracts:**
+Suitable for discussing novel ideas or previously published work related to Explainability and/or Uncertainty. This can include open research challenges or industrial applications to foster discussion among panelists and facilitate future collaborations. The page limit for the extended abstract is 2-4 pages, excluding references.
+
+- **Abstracts of already published work:**
+Suitable for discussing previously published work related to Explainability and/or Uncertainty. The page limit for the extended abstract is 2, excluding references.
 
 ---
 
