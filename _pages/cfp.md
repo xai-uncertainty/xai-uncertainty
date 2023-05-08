@@ -7,6 +7,8 @@ nav: true
 nav_order: 6
 ---
 
+**Call for Papers:**
+
 We invite submissions from researchers intereseted in Interpretable Machine Learning (IML) and/or Uncertainty Quantification, for our Workshop. The scope of the topics covers all types of data (tabular, text, images, etc.) and all type of ML models. We particularly encourage interdisciplinary work that lies on the intersection of explainability and uncertainty.
 
 The workshop’s topics of interest include (but not limited to) methods and applications on:

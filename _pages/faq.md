@@ -18,4 +18,3 @@ A: The workshop is hosted by ECML-PKDD. Therefore, you have to be registered in 
 
 * Q: Is there any additional cost associated with the acceptance of my paper?
   A: There are no additional costs associated with our workshop, as long as you are attending the main ECML-PKDD event.
-

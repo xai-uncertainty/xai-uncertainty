@@ -31,7 +31,7 @@ Machine learning systems have become increasingly popular in crucial high-stakes
 
 Simultaneously, there is a growing emphasis on machine learning models that account for uncertainty. Decision-making systems can encounter uncertainties stemming from different origins, each offering a distinct perspectives. For instance, aleatoric uncertainty arises from the inherent randomness of the prediction, while epistemic uncertainty from the insufficient amount of data. In general, incorporating uncertainty enhances a model's reliability by allowing it to acknowledge scenarios where it lacks the necessary knowledge to make an accurate prediction.
 
-The intersection of explainability and uncertainty has drawn attention for its potential to combine these domains towards Trustworthy ML. Some notable innovative approaches include: developing interpretability methods for probabilistic models, qunatifying the uncertainty of explanations, and explaining the sources of uncertainty.
+The intersection of explainability and uncertainty has drawn attention for its potential to combine these domains towards Trustworthy ML. Some notable innovative approaches include: developing interpretability methods for probabilistic models, quantifying the uncertainty of explanations, and explaining the sources of uncertainty.
 
 The primary goal of this full-day event, consisting of a Tutorial and a Workshop, is to jointly explore how explainability and uncertainty can be leveraged to build robust and trustworthy AI systems. The tutorial (morning session) will establish the foundation for (a) uncertainty modelling and (b) explainability in machine learning. Then, the workshop (afternoon session) will delve into innovative techniques at the intersection of these two domains.
 
@@ -51,8 +51,8 @@ The workshop & tutorial will be an in-person event at [ECML-PKDD 2023](https://2
 
 - Tutorial:
   - [Viktor Bengs](https://www.kiml.ifi.lmu.de/people/postdocs/bengs/index.html)
-  - [Eyke Hullermeier](https://scholar.google.com/citations?user=usVJeNN3xFAC&hl=en)
-  - [Willem Waegeman](https://scholar.google.com/citations?user=jdjZppMAAAAJ&hl=en)
+  - [Eyke Hullermeier](https://www.kiml.ifi.lmu.de/people/professors/huellermeier/index.html)
+  - [Willem Waegeman](http://www.bioml.ugent.be/)
 - Workshop:
   - [Vasilis Gkolemis](https://givasile.github.io)
   - [Christos Diou](https://diou.github.io)
@@ -69,8 +69,19 @@ TBA
 
 <img src="assets/img/ghent_logo.png" width="250">
 <img src="assets/img/lmu_logo.png" width="250">
-<img src="assets/img/harokopio.png" width="500">
 <img src="assets/img/athena_logo.jpg" width="350">
+<img src="assets/img/harokopio.png" width="500">
+
+---
+
+### **Supported by**
+
+<img src="assets/img/logo_xmanai.png" width="250">
+<img src="assets/img/logo_autofair.png" width="250">
+<img src="assets/img/logo-extremexp.png" width="250">
+<img src="assets/img/logo_relevium.png" width="250">
+
+---
 
 <!-- Associating a model’s predictions with an uncertainty level is a form of transparency; the user is informed to what extent they should trust the system’s decision. However, uncertainty is not sufficient for understanding how a black box ML model predicts. In high-stakes applications, there is a need for methods that do both; predict with uncertainty and explain their predictions. Furthermore, studies have shown that explainability methods are also vulnerable to inconsistencies and instabilities, which poses a significant challenge to their reliability. Therefore, the explanations should also account for uncertainty to express to what extent the stakeholder should trust them.  -->
 
