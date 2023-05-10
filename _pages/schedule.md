@@ -98,7 +98,7 @@ nav_order: 2
         <li>XAI methods that quantify the uncertainty of the explanation</li>
       </ul>
     </td>
-    <td>30 minutes</td>
+    <td>45 minutes</td>
   </tr>
 </table>
 

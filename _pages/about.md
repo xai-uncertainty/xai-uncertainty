@@ -33,7 +33,7 @@ Simultaneously, there is a growing emphasis on machine learning models that acco
 
 The intersection of explainability and uncertainty has drawn attention for its potential to combine these domains towards Trustworthy ML. Some notable innovative approaches include: developing interpretability methods for probabilistic models, quantifying the uncertainty of explanations, and explaining the sources of uncertainty.
 
-The primary goal of this full-day event, consisting of a Tutorial and a Workshop, is to jointly explore how explainability and uncertainty can be leveraged to build robust and trustworthy AI systems. The tutorial (morning session) will establish the foundation for (a) uncertainty modelling and (b) explainability in machine learning. Then, the workshop (afternoon session) will delve into innovative techniques at the intersection of these two domains.
+The primary goal of this full-day event, consisting of a Tutorial and a Workshop, is to jointly explore how explainability and uncertainty can be leveraged to build robust and trustworthy AI systems. The tutorial (morning session) will establish the foundation for (a) uncertainty modeling and (b) explainability in machine learning. Then, the workshop (afternoon session) will delve into innovative techniques at the intersection of these two domains.
 
 The workshop & tutorial will be an in-person event at [ECML-PKDD 2023](https://2023.ecmlpkdd.org/). The session will cover invited talks, contributed talks, posters, and a panel discussion.
 
@@ -43,7 +43,7 @@ The workshop & tutorial will be an in-person event at [ECML-PKDD 2023](https://2
 
 - Submission Deadline: **12 June 2023 (AoE)**
 - Author Notification: **12 July 2023 (AoE)**
-- Event Date: **TBA (18th or 22nd of September 2023)**
+- Event Date: **22 September 2023**
 
 ---
 
@@ -59,9 +59,19 @@ The workshop & tutorial will be an in-person event at [ECML-PKDD 2023](https://2
 
 ---
 
-### **Program Committee**
+### **Program Committee** (TBU)
 
-TBA
+- [Rahul Nair (IBM)](https://research.ibm.com/people/rahul-nair)
+- [Dimitris Sacharidis (ULB)](https://www.ulb.be/fr/dimitris-sacharidis-1)
+- [Kostas Stefanidis (TUNI)](https://homepages.tuni.fi/konstantinos.stefanidis/)
+- [Carlos Mougan](https://cmougan.github.io/)
+- [Dimitrios Gunopulos (NKUA)](https://research.ibm.com/people/rahul-nair)
+- [Jakub Marecek (CVUT)](https://cs.felk.cvut.cz/en/people/marecjak)
+- [Giorgos Giannopoulos](https://www.imsi.athenarc.gr/en/people/member/7)
+- [Giorgos Papastefanatos](https://web.imsi.athenarc.gr/~gpapas/)
+- [Theodore Dalamagas](https://www.imsi.athenarc.gr/en/people/member/4)
+- [Hamid Bouchachia](https://staffprofiles.bournemouth.ac.uk/display/abouchachia)
+- [Loukas Kavouras](https://www.linkedin.com/in/loukas-kavouras-phd-4a6508123/?originalSubdomain=gr)
 
 ---
 
