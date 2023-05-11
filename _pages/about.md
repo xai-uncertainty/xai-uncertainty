@@ -68,7 +68,7 @@ The workshop & tutorial will be an in-person event at [ECML-PKDD 2023](https://2
 - [Dimitrios Gunopulos (NKUA)](https://research.ibm.com/people/rahul-nair)
 - [Jakub Marecek (CVUT)](https://cs.felk.cvut.cz/en/people/marecjak)
 - [Giorgos Giannopoulos](https://www.imsi.athenarc.gr/en/people/member/7)
-- [Giorgos Papastefanatos](https://web.imsi.athenarc.gr/~gpapas/)
+- [Giorgos Papastefanatos](https://www.imsi.athenarc.gr/en/people/member/40)
 - [Theodore Dalamagas](https://www.imsi.athenarc.gr/en/people/member/4)
 - [Hamid Bouchachia](https://staffprofiles.bournemouth.ac.uk/display/abouchachia)
 - [Loukas Kavouras](https://www.linkedin.com/in/loukas-kavouras-phd-4a6508123/?originalSubdomain=gr)
