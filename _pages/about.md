@@ -77,19 +77,19 @@ The workshop & tutorial will be an in-person event at [ECML-PKDD 2023](https://2
 
 ### **Organizations**
 
-<img src="assets/img/ghent_logo.png" width="250">
-<img src="assets/img/lmu_logo.png" width="250">
-<img src="assets/img/athena_logo.jpg" width="350">
-<img src="assets/img/harokopio.png" width="500">
+<a href="https://www.ugent.be/en"><img src="assets/img/ghent_logo.png" alt="Ghent logo" width="250"></a>
+<a href="https://www.lmu.de/en/"><img src="assets/img/lmu_logo.png" alt="LMU logo" width="250"></a>
+<a href="https://www.athenarc.gr/en"><img src="assets/img/athena_logo.jpg" alt="ATHENA logo" width="350"></a>
+<a href="https://www.dit.hua.gr/index.php/el/"><img src="assets/img/harokopio.png" alt="Harokopio logo" width="500"></a>
 
 ---
 
 ### **Supported by**
 
-<img src="assets/img/logo_xmanai.png" width="250">
-<img src="assets/img/logo_autofair.png" width="250">
-<img src="assets/img/logo-extremexp.png" width="250">
-<img src="assets/img/logo_relevium.png" width="250">
+<a href="https://ai4manufacturing.eu/"><img src="assets/img/logo_xmanai.png" alt="XMANAI logo" width="250"></a>
+<a href="https://cordis.europa.eu/project/id/101070568"><img src="assets/img/logo_autofair.png" alt="ExtremeXP logo" width="250"></a>
+<a href="https://extremexp.eu"><img src="assets/img/logo-extremexp.png" alt="ExtremeXP logo" width="250"></a>
+<a href="https://www.releviumproject.eu/"><img src="assets/img/logo_relevium.png" alt="Revelium logo" width="250"></a>
 
 ---
 
