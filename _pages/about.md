@@ -64,14 +64,14 @@ The workshop & tutorial will be an in-person event at [ECML-PKDD 2023](https://2
 - [Rahul Nair (IBM)](https://research.ibm.com/people/rahul-nair)
 - [Dimitris Sacharidis (ULB)](https://www.ulb.be/fr/dimitris-sacharidis-1)
 - [Kostas Stefanidis (TUNI)](https://homepages.tuni.fi/konstantinos.stefanidis/)
-- [Carlos Mougan](https://cmougan.github.io/)
+- [Carlos Mougan (University of Southampton)](https://cmougan.github.io/)
 - [Dimitrios Gunopulos (NKUA)](https://research.ibm.com/people/rahul-nair)
 - [Jakub Marecek (CVUT)](https://cs.felk.cvut.cz/en/people/marecjak)
-- [Giorgos Giannopoulos](https://www.imsi.athenarc.gr/en/people/member/7)
-- [Giorgos Papastefanatos](https://www.imsi.athenarc.gr/en/people/member/40)
-- [Theodore Dalamagas](https://www.imsi.athenarc.gr/en/people/member/4)
-- [Hamid Bouchachia](https://staffprofiles.bournemouth.ac.uk/display/abouchachia)
-- [Loukas Kavouras](https://www.linkedin.com/in/loukas-kavouras-phd-4a6508123/?originalSubdomain=gr)
+- [Giorgos Giannopoulos (ATHENA RC)](https://www.imsi.athenarc.gr/en/people/member/7)
+- [Giorgos Papastefanatos (ATHENA RC)](https://www.imsi.athenarc.gr/en/people/member/40)
+- [Theodore Dalamagas (ATHENA RC)](https://www.imsi.athenarc.gr/en/people/member/4)
+- [Hamid Bouchachia (Bournemouth University)](https://staffprofiles.bournemouth.ac.uk/display/abouchachia)
+- [Loukas Kavouras (ATHENA RC)](https://www.linkedin.com/in/loukas-kavouras-phd-4a6508123/?originalSubdomain=gr)
 
 ---
 
@@ -92,7 +92,3 @@ The workshop & tutorial will be an in-person event at [ECML-PKDD 2023](https://2
 <a href="https://www.releviumproject.eu/"><img src="assets/img/logo_relevium.png" alt="Revelium logo" width="250"></a>
 
 ---
-
-<!-- Associating a model’s predictions with an uncertainty level is a form of transparency; the user is informed to what extent they should trust the system’s decision. However, uncertainty is not sufficient for understanding how a black box ML model predicts. In high-stakes applications, there is a need for methods that do both; predict with uncertainty and explain their predictions. Furthermore, studies have shown that explainability methods are also vulnerable to inconsistencies and instabilities, which poses a significant challenge to their reliability. Therefore, the explanations should also account for uncertainty to express to what extent the stakeholder should trust them.  -->
-
-<!-- The workshop aims to attract submissions from renowned experts in the fields of Explainability, Statistics and Machine Learning. Application-specific works in cases where decision making implies stable explainability methods are welcomed. -->
