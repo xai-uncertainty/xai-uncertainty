@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle:
 news: False  # includes a list of news items
 latest_posts: False  # includes a list of the newest posts
 selected_papers: False # includes a list of papers marked as "selected={true}"
@@ -49,13 +49,14 @@ The workshop & tutorial will be an in-person event at [ECML-PKDD 2023](https://2
 
 ### **Organizers**
 
+- Workshop:
+  - [Vasilis Gkolemis](https://givasile.github.io)
+  - [Christos Diou](https://diou.github.io)
+
 - Tutorial:
   - [Viktor Bengs](https://www.kiml.ifi.lmu.de/people/postdocs/bengs/index.html)
   - [Eyke Hullermeier](https://www.kiml.ifi.lmu.de/people/professors/huellermeier/index.html)
   - [Willem Waegeman](http://www.bioml.ugent.be/)
-- Workshop:
-  - [Vasilis Gkolemis](https://givasile.github.io)
-  - [Christos Diou](https://diou.github.io)
 
 ---
 
@@ -72,6 +73,9 @@ The workshop & tutorial will be an in-person event at [ECML-PKDD 2023](https://2
 - [Theodore Dalamagas (ATHENA RC)](https://www.imsi.athenarc.gr/en/people/member/4)
 - [Hamid Bouchachia (Bournemouth University)](https://staffprofiles.bournemouth.ac.uk/display/abouchachia)
 - [Loukas Kavouras (ATHENA RC)](https://www.linkedin.com/in/loukas-kavouras-phd-4a6508123/?originalSubdomain=gr)
+- [Eirini Ntoutsi (UNIBW)](https://www.unibw.de/home-en/appointment-of-professors/prof-eirini-ntoutsi)
+- [Dimitris Fotakis (NTUA)](https://www.ece.ntua.gr/en/staff/180)
+- [Maria Tzelepi (AUTH)](https://scholar.google.gr/citations?user=ZMOW1K0AAAAJ&hl=el)
 
 ---
 
