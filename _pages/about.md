@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <p style="color:blue" align="center"> 
-<a href="mailto:xai-uncertainty@gmail.com">[Click here to submit any question to the organizers]</a></p>
+<a href="mailto:xai.uncertainty@gmail.com">[Click here to submit any question to the organizers]</a></p>
 
 ---
 
