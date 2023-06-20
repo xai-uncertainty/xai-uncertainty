@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-**Call for Papers: (Deadline Extended until 20 June 2023 (AoE))**
+**Call for Papers: (Deadline Extended until 23 June 2023 (AoE))**
 
 We invite submissions from researchers interested in Interpretable Machine Learning (IML) and/or Uncertainty Quantification, for our Workshop. The scope of the topics covers all types of data (tabular, text, images, etc.) and all type of ML models. We particularly encourage interdisciplinary work that lies on the intersection of explainability and uncertainty.
 

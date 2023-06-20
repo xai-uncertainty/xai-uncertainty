@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 <p style="color:blue" align="center"> Click
 <a href="https://cmt3.research.microsoft.com/ECMLPKDDworkshop2023/Track/3/Submission/Create">[here]</a>  to submit a paper or 
-<a href="cfp">[here]</a> to read the CFP (Deadline Extended until 20 June 2023 (AoE))
+<a href="cfp">[here]</a> to read the CFP (New extension until 23 June 2023 (AoE))
 </p>
 
 ---
