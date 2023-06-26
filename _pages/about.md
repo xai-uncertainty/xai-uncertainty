@@ -41,7 +41,7 @@ The workshop & tutorial will be an in-person event at [ECML-PKDD 2023](https://2
 
 ### **Key Dates**
 
-- Submission Deadline: **~~12 June 2023 (AoE)~~ 20 June 2023 (AoE)**
+- Submission Deadline: **~~12 June 2023 (AoE)~~ ~~20 June 2023 (AoE)~~**
 - Author Notification: **12 July 2023 (AoE)**
 - Event Date: **22 September 2023**
 
@@ -62,20 +62,25 @@ The workshop & tutorial will be an in-person event at [ECML-PKDD 2023](https://2
 
 ### **Program Committee** (TBU)
 
-- [Rahul Nair (IBM)](https://research.ibm.com/people/rahul-nair)
-- [Dimitris Sacharidis (ULB)](https://www.ulb.be/fr/dimitris-sacharidis-1)
-- [Kostas Stefanidis (TUNI)](https://homepages.tuni.fi/konstantinos.stefanidis/)
+- [Albert Calvo (i2CAT)](https://scholar.google.es/citations?user=vm5Ki34AAAAJ)
 - [Carlos Mougan (University of Southampton)](https://cmougan.github.io/)
 - [Dimitrios Gunopulos (NKUA)](https://research.ibm.com/people/rahul-nair)
-- [Jakub Marecek (CVUT)](https://cs.felk.cvut.cz/en/people/marecjak)
+- [Dimitris Sacharidis (ULB)](https://www.ulb.be/fr/dimitris-sacharidis-1)
+- [Dimitris Fotakis (NTUA)](https://www.ece.ntua.gr/en/staff/180)
+- [Eirini Ntoutsi (UNIBW)](https://www.unibw.de/home-en/appointment-of-professors/prof-eirini-ntoutsi)
 - [Giorgos Giannopoulos (ATHENA RC)](https://www.imsi.athenarc.gr/en/people/member/7)
 - [Giorgos Papastefanatos (ATHENA RC)](https://www.imsi.athenarc.gr/en/people/member/40)
-- [Theodore Dalamagas (ATHENA RC)](https://www.imsi.athenarc.gr/en/people/member/4)
+- [Guiseppe Casalicchio (LMU)](https://www.slds.stat.uni-muenchen.de/people/casalicchio/)
 - [Hamid Bouchachia (Bournemouth University)](https://staffprofiles.bournemouth.ac.uk/display/abouchachia)
+- [Helen Psaroudaki (NTUA)](https://www.linkedin.com/in/helen-psaroudaki-2454391a7/?originalSubdomain=gr)
+- [Jakub Marecek (CVUT)](https://cs.felk.cvut.cz/en/people/marecjak)
+- [Kostas Stefanidis (TUNI)](https://homepages.tuni.fi/konstantinos.stefanidis/)
 - [Loukas Kavouras (ATHENA RC)](https://www.linkedin.com/in/loukas-kavouras-phd-4a6508123/?originalSubdomain=gr)
-- [Eirini Ntoutsi (UNIBW)](https://www.unibw.de/home-en/appointment-of-professors/prof-eirini-ntoutsi)
-- [Dimitris Fotakis (NTUA)](https://www.ece.ntua.gr/en/staff/180)
 - [Maria Tzelepi (AUTH)](https://scholar.google.gr/citations?user=ZMOW1K0AAAAJ&hl=el)
+- [Rahul Nair (IBM)](https://research.ibm.com/people/rahul-nair)
+p- [Theodore Dalamagas (ATHENA RC)](https://www.imsi.athenarc.gr/en/people/member/4)
+- [Theodora Tsikrika (CERTH)](https://scholar.google.com/citations?user=7LNLZXoAAAAJ&hl=en)
+
 
 ---
 
