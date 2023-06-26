@@ -70,7 +70,7 @@ The workshop & tutorial will be an in-person event at [ECML-PKDD 2023](https://2
 - [Eirini Ntoutsi (UNIBW)](https://www.unibw.de/home-en/appointment-of-professors/prof-eirini-ntoutsi)
 - [Giorgos Giannopoulos (ATHENA RC)](https://www.imsi.athenarc.gr/en/people/member/7)
 - [Giorgos Papastefanatos (ATHENA RC)](https://www.imsi.athenarc.gr/en/people/member/40)
-- [Guiseppe Casalicchio (LMU)](https://www.slds.stat.uni-muenchen.de/people/casalicchio/)
+- [Giuseppe Casalicchio (LMU)](https://www.slds.stat.uni-muenchen.de/people/casalicchio/)
 - [Hamid Bouchachia (Bournemouth University)](https://staffprofiles.bournemouth.ac.uk/display/abouchachia)
 - [Helen Psaroudaki (NTUA)](https://www.linkedin.com/in/helen-psaroudaki-2454391a7/?originalSubdomain=gr)
 - [Jakub Marecek (CVUT)](https://cs.felk.cvut.cz/en/people/marecjak)
