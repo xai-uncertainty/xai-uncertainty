@@ -78,7 +78,7 @@ The workshop & tutorial will be an in-person event at [ECML-PKDD 2023](https://2
 - [Loukas Kavouras (ATHENA RC)](https://www.linkedin.com/in/loukas-kavouras-phd-4a6508123/?originalSubdomain=gr)
 - [Maria Tzelepi (AUTH)](https://scholar.google.gr/citations?user=ZMOW1K0AAAAJ&hl=el)
 - [Rahul Nair (IBM)](https://research.ibm.com/people/rahul-nair)
-p- [Theodore Dalamagas (ATHENA RC)](https://www.imsi.athenarc.gr/en/people/member/4)
+- [Theodore Dalamagas (ATHENA RC)](https://www.imsi.athenarc.gr/en/people/member/4)
 - [Theodora Tsikrika (CERTH)](https://scholar.google.com/citations?user=7LNLZXoAAAAJ&hl=en)
 
 
