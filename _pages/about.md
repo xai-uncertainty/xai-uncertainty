@@ -76,6 +76,7 @@ The workshop & tutorial will be an in-person event at [ECML-PKDD 2023](https://2
 - [Jakub Marecek (CVUT)](https://cs.felk.cvut.cz/en/people/marecjak)
 - [Kostas Stefanidis (TUNI)](https://homepages.tuni.fi/konstantinos.stefanidis/)
 - [Loukas Kavouras (ATHENA RC)](https://www.linkedin.com/in/loukas-kavouras-phd-4a6508123/?originalSubdomain=gr)
+- [Nikos Vryzas (AUTH)](https://scholar.google.gr/citations?user=6yW0MxQAAAAJ&hl=el)
 - [Maria Tzelepi (AUTH)](https://scholar.google.gr/citations?user=ZMOW1K0AAAAJ&hl=el)
 - [Rahul Nair (IBM)](https://research.ibm.com/people/rahul-nair)
 - [Theodore Dalamagas (ATHENA RC)](https://www.imsi.athenarc.gr/en/people/member/4)
