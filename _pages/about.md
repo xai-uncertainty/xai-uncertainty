@@ -72,7 +72,7 @@ The workshop & tutorial will be an in-person event at [ECML-PKDD 2023](https://2
 - [Giorgos Papastefanatos (ATHENA RC)](https://www.imsi.athenarc.gr/en/people/member/40)
 - [Giuseppe Casalicchio (LMU)](https://www.slds.stat.uni-muenchen.de/people/casalicchio/)
 - [Hamid Bouchachia (Bournemouth University)](https://staffprofiles.bournemouth.ac.uk/display/abouchachia)
-- [Helen Psaroudaki (NTUA)](https://www.linkedin.com/in/helen-psaroudaki-2454391a7/?originalSubdomain=gr)
+- [Helen Psaroudaki (NTUA)](https://www.linkedin.com/in/pseleni/)
 - [Jakub Marecek (CVUT)](https://cs.felk.cvut.cz/en/people/marecjak)
 - [Kostas Stefanidis (TUNI)](https://homepages.tuni.fi/konstantinos.stefanidis/)
 - [Loukas Kavouras (ATHENA RC)](https://www.linkedin.com/in/loukas-kavouras-phd-4a6508123/?originalSubdomain=gr)
