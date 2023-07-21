@@ -15,9 +15,9 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-<p style="color:blue" align="center"> Click
-<a href="https://cmt3.research.microsoft.com/ECMLPKDDworkshop2023/Track/3/Submission/Create">[here]</a>  to submit a paper or 
-<a href="cfp">[here]</a> to read the CFP (New extension until 23 June 2023 (AoE))
+
+<p style="color:blue" align="center"> Early-bird registrations are until <b>24/7/23</b>. The first authors of each accepted paper must complete a full-paper registration. See
+<a href="https://2023.ecmlpkdd.org/attending/registration/">[here]</a> for more info.
 </p>
 
 ---
@@ -42,7 +42,7 @@ The workshop & tutorial will be an in-person event at [ECML-PKDD 2023](https://2
 ### **Key Dates**
 
 - Submission Deadline: **~~12 June 2023 (AoE)~~ ~~20 June 2023 (AoE)~~**
-- Author Notification: **12 July 2023 (AoE)**
+- Author Notification: **~~12 July 2023 (AoE)~~**
 - Event Date: **22 September 2023**
 
 ---

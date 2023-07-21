@@ -1,13 +1,9 @@
 ---
 layout: page
 permalink: /schedule/
-title: Schedule
+title: Tutorial Schedule
 nav: true
 nav_order: 2
----
-
-<p align="center" style="font-weight:bold; font-size:30px"> Schedule (to-be updated)</p>
-
 ---
 
 <p style="font-weight:bold; font-size:25px"> Tutorial</p>
@@ -88,22 +84,6 @@ nav_order: 2
     <td></td>
     <td>15 minutes</td>
   </tr>
-  <tr>
-    <td>---</td>
-    <td>TBD</td>
-    <td>Explainability meets Uncertainty</td>
-    <td>
-      <ul>
-        <li>XAI techniques on probabilistic models</li>
-        <li>XAI methods that quantify the uncertainty of the explanation</li>
-      </ul>
-    </td>
-    <td>45 minutes</td>
-  </tr>
 </table>
 
 ---
-
-<p style="font-weight:bold; font-size:25px"> Workshop </p>
-
-TBA
