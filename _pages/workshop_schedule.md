@@ -80,7 +80,7 @@ nav_order: 2
     <td>20 minutes</td>
   </tr>
   <tr>
-    <td>5.10-5.40</td>
+    <td>5.10-5.45</td>
     <td>FALE: Fairness aware ALE plots for auditing bias in subgroups</td>
     <td>Giorgos Giannopoulos</td>
     <td>7 minutes</td>
@@ -89,6 +89,12 @@ nav_order: 2
     <td></td>
     <td>Improving the Validity of Decision Trees as Explanations</td>
     <td>Jiří Němeček</td>
+    <td>7 minutes</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Towards Explainability in Monocular Depth Estimation</td>
+    <td>Vasileios Arampatzakis</td>
     <td>7 minutes</td>
   </tr>
   <tr>
@@ -104,10 +110,10 @@ nav_order: 2
     <td>7 minutes</td>
   </tr>
   <tr>
-    <td>5.40-6.00</td>
+    <td>5.45-6.00</td>
     <td>Poster session</td>
     <td></td>
-    <td>20 minutes</td>
+    <td>15 minutes</td>
   </tr>
 </table>
 
