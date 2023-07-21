@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /schedule_workshop/
-title: Workhsop schedule
+title: Workshop schedule
 nav: true
 nav_order: 2
 ---
