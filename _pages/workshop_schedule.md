@@ -25,19 +25,19 @@ nav_order: 2
     <td>2.35-2.50</td>
     <td>Short introduction on the intersection of uncertainty and explainability in machine learning</td>
     <td>Christos Diou</td>
-    <td>(17' presentation + 3' questions)</td>
+    <td>15'</td>
   </tr>
   <tr>
     <td>2.50-3.10</td>
     <td>Using Stochastic Methods to Setup High Precision Experiments</td>
     <td>Kristina Veljković</td>
-    <td>20 minutes</td>
+    <td>(17' presentation + 3' questions)</td>
   </tr>
   <tr>
     <td>3.10-3.30</td>
     <td>Using Part-based Representations for Explainable Deep Reinforcement Learning</td>
     <td>Manos Kirtas</td>
-    <td>20 minutes</td>
+    <td>(17' presentation + 3' questions)</td>
   </tr>
   <tr>
     <td>3.30-4.00</td>
@@ -71,13 +71,13 @@ nav_order: 2
     <td>4.30-4.50</td>
     <td>Explainable Learning with Hierarchical Online Deterministic Annealing</td>
     <td>Christos Mavridis</td>
-    <td>20 minutes</td>
+    <td>(17' presentation + 3' questions)</td>
   </tr>
   <tr>
     <td>4.50-5.10</td>
     <td>Regionally Additive Models: Explainable-by-design models minimizing feature interactions</td>
     <td>Vasilis Gkolemis</td>
-    <td>20 minutes</td>
+    <td>(17' presentation + 3' questions)</td>
   </tr>
   <tr>
     <td>5.10-5.45</td>
@@ -111,7 +111,7 @@ nav_order: 2
   </tr>
   <tr>
     <td>5.45-6.00</td>
-    <td>Poster session</td>
+    <td>Poster session - Poster dimensions (75x200 cm)</td>
     <td></td>
     <td>15 minutes</td>
   </tr>
