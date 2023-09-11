@@ -111,7 +111,7 @@ nav_order: 2
   </tr>
   <tr>
     <td>5.45-6.00</td>
-    <td>Poster session - Poster dimensions (75x200 cm)</td>
+    <td>Poster session - Poster dimensions (75x200 cm) double-side</td>
     <td></td>
     <td>15 minutes</td>
   </tr>

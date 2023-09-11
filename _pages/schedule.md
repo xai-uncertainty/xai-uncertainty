@@ -3,7 +3,7 @@ layout: page
 permalink: /schedule/
 title: Tutorial Schedule
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 <p style="font-weight:bold; font-size:25px"> Tutorial</p>

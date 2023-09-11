@@ -8,7 +8,7 @@ nav_order: 6
 ---
 
 * Q: When and where will the event take place?
-  A: Friday 22/09/2023, in Turin, Italy.
+  A: Friday 22/09/2023, in Turin, Italy. Room: PoliTo Room 7T.
 
 * Q: Will the paper be published in any proceedings?
   A: Yes, there will be post-workshop proceedings published by [Springer Communications in Computer and Information Science](https://www.springer.com/series/7899), in 1-2 volumes, organized by focused scope and possibly indexed by WOS. However, authors will have the option **to exclude their paper from the proceedings, if they want so.**
@@ -18,3 +18,6 @@ A: The workshop is hosted by ECML-PKDD. Therefore, you have to be registered in 
 
 * Q: Is there any additional cost associated with the acceptance of my paper?
   A: There are no additional costs associated with our workshop, as long as you are attending the main ECML-PKDD event.
+
+* Q: My paper has been accepted. Do I need to create a poster?
+  A: It is not mandatory, but it is recommended. The poster boardsare 75cm wide and 200cm high (A1), double sided.

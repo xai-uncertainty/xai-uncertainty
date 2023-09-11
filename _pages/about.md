@@ -9,7 +9,7 @@ selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p align="center" style="font-weight:bold; font-size:30px"> Uncertainty meets Explainability | Workshop and Tutorial @
+<p align="center" style="font-weight:bold; font-size:30px"> Uncertainty meets Explainability | Workshop @
 <a href="https://2023.ecmlpkdd.org/">ECML-PKDD 2023</a>
 </p>
 
@@ -53,14 +53,9 @@ The workshop & tutorial will be an in-person event at [ECML-PKDD 2023](https://2
   - [Vasilis Gkolemis](https://givasile.github.io)
   - [Christos Diou](https://diou.github.io)
 
-- Tutorial:
-  - [Viktor Bengs](https://www.kiml.ifi.lmu.de/people/postdocs/bengs/index.html)
-  - [Eyke Hullermeier](https://www.kiml.ifi.lmu.de/people/professors/huellermeier/index.html)
-  - [Willem Waegeman](http://www.bioml.ugent.be/)
-
 ---
 
-### **Program Committee** (TBU)
+### **Program Committee**
 
 - [Albert Calvo (i2CAT)](https://scholar.google.es/citations?user=vm5Ki34AAAAJ)
 - [Carlos Mougan (University of Southampton)](https://cmougan.github.io/)
@@ -87,9 +82,9 @@ The workshop & tutorial will be an in-person event at [ECML-PKDD 2023](https://2
 
 ### **Organizations**
 
-<a href="https://www.ugent.be/en"><img src="assets/img/ghent_logo.png" alt="Ghent logo" width="250"></a>
-<a href="https://www.lmu.de/en/"><img src="assets/img/lmu_logo.png" alt="LMU logo" width="250"></a>
-<a href="https://www.athenarc.gr/en"><img src="assets/img/athena_logo.jpg" alt="ATHENA logo" width="350"></a>
+<!-- <a href="https://www.ugent.be/en"><img src="assets/img/ghent_logo.png" alt="Ghent logo" width="250"></a> -->
+<!-- <a href="https://www.lmu.de/en/"><img src="assets/img/lmu_logo.png" alt="LMU logo" width="250"></a> -->
+<a href="https://www.athenarc.gr/en"><img src="assets/img/athena_logo.jpg" alt="ATHENA logo" width="300"></a>
 <a href="https://www.dit.hua.gr/index.php/el/"><img src="assets/img/harokopio.png" alt="Harokopio logo" width="500"></a>
 
 ---

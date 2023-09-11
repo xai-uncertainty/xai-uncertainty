@@ -4,7 +4,7 @@ permalink: /workshop/
 title: Workshop
 description: Workshop on Explainability under Uncertainty
 nav: true
-nav_order: 5
+nav_order: 3
 
 authors:
   - name: Vasilis Gkolemis
