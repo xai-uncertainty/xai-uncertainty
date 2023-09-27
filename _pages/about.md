@@ -16,13 +16,12 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-<p style="color:blue" align="center"> Early-bird registrations are until <b>24/7/23</b>. The first authors of each accepted paper must complete a full-paper registration. See
-<a href="https://2023.ecmlpkdd.org/attending/registration/">[here]</a> for more info.
+<p style="color:blue" align="center"> Camera-ready versions should be submitted until <b>6/10/23</b>. Please, check the <a href="./../faq">FAQ </a> section for more information.
 </p>
 
 ---
 
-<p style="color:blue" align="center"> 
+<p style="color:blue" align="center">
 <a href="mailto:xai.uncertainty@gmail.com">[Click here to submit any question to the organizers]</a></p>
 
 ---
