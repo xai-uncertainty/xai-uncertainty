@@ -59,7 +59,7 @@ nav_order: 2
   </tr>
   <tr>
     <td></td>
-    <td><a href="./../assets/pdf/07.Hana_Lukashewich_2023-09-20_ECML_Uncertainty_Lukashevich_Temperature_scaling.pdf">Temperature scaling for reliable uncertainty estimation: Application to automatic music genre classification</a></td>
+    <td><a href="./../assets/pdf/07.Hanna_Lukashevich_2023-09-20_ECML_Uncertainty_Lukashevich_Temperature_scaling.pdf">Temperature scaling for reliable uncertainty estimation: Application to automatic music genre classification</a></td>
     <td>Hanna Lukashevich</td>
     <td>7 minutes</td>
   </tr>
