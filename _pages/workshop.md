@@ -69,7 +69,7 @@ nav_order: 2
   </tr>
   <tr>
     <td>4.30-4.50</td>
-    <td>Explainable Learning with Hierarchical Online Deterministic Annealing</td>
+    <td><a href="./../assets/pdf/08_annealing.pdf">Explainable Learning with Hierarchical Online Deterministic Annealing</a></td>
     <td>Christos Mavridis</td>
     <td>(17' presentation + 3' questions)</td>
   </tr>
